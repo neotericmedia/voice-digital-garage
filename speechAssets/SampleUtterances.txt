@@ -1,0 +1,25 @@
+Hello sup
+Hello hi
+Hello hey
+
+WhichFloor what floor are you on
+WhichFloor what floor is Digital Garage on
+
+DigtalGarage what else can you tell me about Digtal Garage
+DigtalGarage more info
+
+DigtalGarageNum how many Garages are there
+
+AlexaQuotesNum how many cities have alexa meetups
+AlexaQuotesNum how many policy claims do I have
+
+AlexaAvivaCities if {AvivaCities} has a Digital Garage
+AlexaAvivaCities does {AvivaCities} has a Digital Garage
+AlexaAvivaCities check {AvivaCities} has a Digital Garage
+
+AlexaQuotesCities what cities are there
+
+AlexaPolicy retrieve my current policy info
+AlexaPolicyInfo more info on that policy please
+
+gisPolicy retrieve my giservices policy info

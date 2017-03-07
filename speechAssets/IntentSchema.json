@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "intent": "AlexaQuotesNum"
+    },
+    {
+      "intent": "AlexaAvivaCities",
+      "slots": [
+        {
+          "name": "AvivaCities",
+          "type": "AVIVA_CITIES"
+        }
+      ]
+    },
+    {
+      "intent": "AlexaQuotesCities"
+    },
+    {
+      "intent": "AlexaPolicy"
+    },
+    {
+      "intent": "gisPolicy"
+    },
+    {
+      "intent": "AlexaPolicyInfo"
+    },
+    {
+      "intent": "Hello"
+    },
+    {
+      "intent": "DigtalGarageNum"
+    },
+    {
+      "intent": "WhichFloor"
+    },
+    {
+      "intent": "DigtalGarage"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
